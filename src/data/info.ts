@@ -84,7 +84,7 @@ export const info = {
 
   projects: [
     {
-      title: "Festival",
+      title: "Template Website",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/uzzii-21/astro-portfolio",
@@ -124,6 +124,13 @@ export const info = {
       thumbnail: "/assets/images/trading.png",
       githubUrl: "https://github.com/theguyinpink/trading",
       liveUrl: "https://ccarre.malicebc.com/Tradingview/",
+    },
+    {
+      title: "Festival",
+      isFeatured: true,
+      thumbnail: "/assets/images/festival.png",
+      githubUrl: "https://github.com/theguyinpink/festival",
+      liveUrl: "https://ccarre.malicebc.com/festival/",
     },
   ],
 };
