@@ -109,7 +109,7 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/flappy-bird.png",
       githubUrl: "https://github.com/theguyinpink/flappy-bird",
-      liveUrl: "https://ccarre.malicebc.com/Flappy%20Bird/",
+      liveUrl: "flappy-bird-clement.netlify.app",
     },
     {
       title: "Trading BTC View",
