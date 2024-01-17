@@ -3,7 +3,7 @@ export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
   name: "Clément Carré BTS SLAM",
   jobDescription: "Apprenti Développeur BTS SIO SLAM",
-  about: `je suis actuellement en BTS SIO option SLAM (Solutions Logicielles et Applications Métiers) au Lycée Jacques Prévert à Combs-la-Ville. 
+  about: `Je suis actuellement en BTS SIO option SLAM (Solutions Logicielles et Applications Métiers) au Lycée Jacques Prévert à Combs-la-Ville. 
   Je suis passionné par l'informatique depuis mon plus jeune âge. 
   J'ai toujours aimé apprendre de nouvelles choses et résoudre des problèmes.
   `,
