@@ -49,7 +49,7 @@ export const info = {
 
   education: [
     {
-      name: "Collège Les AUlnres",
+      name: "Collège Les Aulnes",
       location: "Combs-la-Vile, Seine-et-Marne, France",
       startDate: "2015",
       endDate: "2019",
